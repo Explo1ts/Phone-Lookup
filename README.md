@@ -1,9 +1,11 @@
 # Phone-Lookup - Made By Exploits
 
-Overview
+Overview:
+
 The Phone Lookup tool is a Python application that utilizes the phonenumbers library to validate and provide detailed information about a given phone number. This tool allows users to check the validity of a phone number, retrieve its geographic and carrier information, and format the number in various ways.
 
-Features
+Features:
+
 1. Phone Number Validation
 Check Validity: The application checks if the entered phone number is valid, ensuring it is in the correct international format (e.g., +11234567890).
 Error Handling: Provides user-friendly error messages if the number is not valid, clearly indicating the issue.
